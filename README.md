@@ -36,6 +36,10 @@ Skills 是 Claude Code 的自定义工作流指令，通过结构化提示词驱
 pull request
 ```
 
+## 友链
+
+- [LINUX DO](https://linux.do/)
+
 ## 贡献
 
 欢迎提交 Issue 和 PR。
